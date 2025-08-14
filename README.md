@@ -3,10 +3,12 @@
 
 Below are screenshots of the extension in action:
 
-![Resume Preview](images/image1.png)
+![Resume Preview](<img width="649" height="768" alt="New tab - Google Chrome 8_14_2025 10_25_35 PM" src="https://github.com/user-attachments/assets/54976110-8e05-405b-9f01-a1deb85790d3" />
+)
 *Resume preview interface.*
 
-![Options Page](images/image2.png)
+
+![Options Page](<img width="1920" height="1020" alt="New tab - Google Chrome 8_14_2025 10_25_51 PM" src="https://github.com/user-attachments/assets/0e7a73ef-19b7-4058-a1f0-91c1d30c0b6d" />)
 *Options page for entering provider key and profile details.*
 
 
