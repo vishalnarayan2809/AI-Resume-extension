@@ -1,16 +1,15 @@
 ## AI Presume — Groq‑powered Resume Builder (Chrome MV3 Extension)
+## Screenshots
 
-Vivaldi
-1. Visit `vivaldi://extensions`
-2. Enable "Developer Mode"
-3. Click "Load unpacked" and select `dist/`
+Below are screenshots of the extension in action:
 
-Firefox (Temporary Loading - Session Only)
-1. Visit `about:debugging`
-2. Click "This Firefox"
-3. Click "Load Temporary Add-on"
-4. Navigate to `dist/` and select `manifest.json`
-5. The extension will be active until Firefox restarts
+![Resume Preview](images/image1.png)
+*Resume preview interface.*
+
+![Options Page](images/image2.png)
+*Options page for entering provider key and profile details.*
+
+
 
 **Important Firefox Limitations:**
 - Chrome MV3 service workers have limited Firefox support
